@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: FHB-AKT - Platforms
+
+nav:
+  - 'index.md'
+  - 'tools.md'
