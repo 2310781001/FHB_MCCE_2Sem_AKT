@@ -1,5 +1,15 @@
 site_name: FHB-AKT - Platforms
-
+theme:
+  name: 'material'
+  # Die folgende Zeile stellt sicher, dass der gesamte Menübaum angezeigt wird
+  navigation_depth: 2
+  features:
+    - navigation.instant
 nav:
-  - 'index.md'
-  - 'tools.md'
+  - Home: 'index.md'
+  - Plattformen:
+      - 'Übersicht': 'platform.md'
+      - 'Wofür': 'platforms/whyplatforms.md'
+      - 'Mehrwert': 'platforms/mehrwert.md'
+  - Tools:
+      - 'Übersicht': 'tools.md'
