@@ -16,3 +16,4 @@ nav:
           - 'Allgemein': 'tools.md'
           - 'Tools': 'tools/tools.md'
           - 'Technologien': 'tools/technologie.md'
+      - 'Linksammlung' : sources.md
