@@ -7,5 +7,5 @@ mkdocs
 mkdocs-material
 
 Commands: 
-sudo apt install python3 python3-pip mkdocs
+sudo apt install python3 python3-pip mkdocs \
 pip3 install mkdocs mkdocs-material
